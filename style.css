@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(243, 26, 88);
+    margin: 0;
+}
+
+.main {
+    width: 100%;
+    background-color: rgb(238, 77, 144);
+    height: 400px;
+    text-align: center;
+    margin: 0;
+}
+
+#header {
+    text-transform: uppercase;
+    color: rgb(238, 164, 172);
+    margin-top: 30%;
+    font-size: 70px;
+    font-family: Verdana;
+}
+
+a {
+    text-decoration: none;
+    border: 1px solid crimson;
+    color: white;
+    padding: 10px;
+    background-color: crimson;
+    border-radius: 4px;
+}
